@@ -6,11 +6,15 @@
 
 就是做個搖桿來移動坦克
 
+![](20200726163033479_40.png)
+
 [教學網址](https://www.bilibili.com/video/BV1JE411D7C5?p=7)
 
 ### 爆破點點(BlastBit)
 
 做一個小遊戲來檢視Cocos 的製作方式
+
+![](20200726162932743_19824.png)
 
 [教學網址](https://www.bilibili.com/video/BV1CE411k78J?p=2)
 
